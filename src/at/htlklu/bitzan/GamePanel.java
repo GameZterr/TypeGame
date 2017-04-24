@@ -114,9 +114,6 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener, Mo
 	public int score4 = 0;
 	
 	//Background
-	public Background background1_1 = new Background("res/background_3_1.png");
-	public Background background1_2 = new Background("res/background_3_2.png");
-	public Background background1_3 = new Background("res/background_3_2.png");
 	public Background background2 = new Background("res/background_1.png");
 	public Background background3 = new Background("res/background_2.png");
 	public Background background4 = new Background("res/background_4.png");
